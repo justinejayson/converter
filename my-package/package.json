@@ -1,5 +1,5 @@
 {
-  "name": "tea-convert",
+  "name": "converter",
   "type": "module",
   "version": "1.0.6",
   "description": "A simple utility library to format currency and convert numbers to words in Indonesian Rupiah.",
@@ -17,7 +17,7 @@
     "K format",
     "Indonesian Currency"
   ],
-  "author": "faresapn <faresaprasetyon@gmail.com>",
+  "author": "justinejayson",
   "license": "MIT",
   "homepage": "",
   "devDependencies": {
